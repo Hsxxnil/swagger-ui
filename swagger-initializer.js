@@ -9,8 +9,8 @@ window.onload = function() {
         name: "Gantt"
       },
       {
-        url: "https://Hsxxnil.github.io/swagger-ui/swagger-files/gantt.json",
-        name: "Gantt B"
+        url: "https://Hsxxnil.github.io/swagger-ui/swagger-files/crm.json",
+        name: "CRM"
       }
     ],
     dom_id: '#swagger-ui',
